@@ -1,10 +1,10 @@
-# 💻Sistema Bancário 2💻
+# 💻Sistema Bancário💻
 
 ![Sistema Bancário](https://via.placeholder.com/728x90.png?text=Sistema+Banc%C3%A1rio)
 
 ## Descrição
 
-Este projeto é o aprimoramento do sistema bancário desenvolvido em Python. Ele permite criação de usuários, criação de contas, listagem de contas, realização de operações bancárias básicas, como depositar, sacar e verificar o extrato. O objetivo principal deste projeto é servir como uma ferramenta educacional para aqueles que desejam aprender mais sobre programação e conceitos de sistemas bancários.
+Este projeto é o aprimoramento do sistema bancário desenvolvido em Python, utilizando POO, heranças, poliformismo, métodos de classe e módulo ABC. Ele permite criação de usuários, criação de contas, listagem de contas, realização de operações bancárias básicas, como depositar, sacar e verificar o extrato. O objetivo principal deste projeto é servir como uma ferramenta educacional para aqueles que desejam aprender mais sobre programação e conceitos de sistemas bancários.
 
 ## Funcionalidades
 
